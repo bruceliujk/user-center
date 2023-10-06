@@ -22,7 +22,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\server\mostMaven" />
-        <option name="mavenHome" value="D:/server/apache-maven-3.5.0" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../server/apache-maven-3.5.0" />
         <option name="userSettingsFile" value="D:\server\apache-maven-3.5.0\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -108,7 +108,6 @@
       <module name="pay" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.lth.PayApplication" />
       <option name="VM_PARAMETERS" value="-Xms5M -Xmx20M -Xss2M " />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>

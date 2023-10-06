@@ -16,6 +16,8 @@ public class OrderInfo extends UserBaseInfo{
     private Long endTime;
     //订单有效时间
     private Long effective;
+    //订单结果
+    private String result;
 
 
 }

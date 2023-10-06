@@ -42,8 +42,8 @@ public class PayController {
         userService.testb(str);
         System.out.println(str);
         return orderInfo;
-    } git config --global user.email"tongheliu@163.com"
-    git config --global user.name"名字"
+    }
+
 
 
 
