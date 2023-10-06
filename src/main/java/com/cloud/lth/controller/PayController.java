@@ -18,6 +18,7 @@ public class PayController {
     public static void main(String[] args) {
         byte[] bytes = new byte[1024 * 1024 * 10];
         byte[] bytes1 = new byte[1024 * 1024 * 100];
+        byte[] bytes2 = new byte[1024 * 1024 * 100];
     }
 
     @PostMapping(value = "/create")
